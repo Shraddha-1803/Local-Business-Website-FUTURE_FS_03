@@ -103,7 +103,11 @@ This website helps the café:
 
 ## 📸 Screenshots
 
-*(Add screenshots here for better presentation)*
+<img width="1917" height="966" alt="Screenshot 2026-04-18 192953" src="https://github.com/user-attachments/assets/fdcc8235-444a-4c56-86a7-36e6d677b246" />
+
+
+<img width="1919" height="969" alt="Screenshot 2026-04-18 193028" src="https://github.com/user-attachments/assets/4c7267da-6695-432e-ad82-309b044ee734" />
+
 
 <img width="1329" height="967" alt="image" src="https://github.com/user-attachments/assets/cc069697-a7e5-45e6-8494-4d65d51e1ae2" />
 
