@@ -105,6 +105,10 @@ This website helps the café:
 
 *(Add screenshots here for better presentation)*
 
+<img width="1329" height="967" alt="image" src="https://github.com/user-attachments/assets/cc069697-a7e5-45e6-8494-4d65d51e1ae2" />
+
+
+
 ---
 
 ## 🙌 Author
