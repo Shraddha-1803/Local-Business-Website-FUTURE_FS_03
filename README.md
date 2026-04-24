@@ -24,14 +24,14 @@ This website was created as a real-world project to showcase how a simple, well-
 
 ## ✨ Features
 
-* 🎨 **Modern UI (Zomato-style cards)**
-* 🌙 **Dark / Light Mode Toggle**
-* 📱 **Fully Responsive (Mobile-Friendly)**
-* 🍔 **Interactive Menu with Images**
-* 📍 **Location Integration (Google Maps)**
-* 💬 **WhatsApp “Order Now” Button**
-* ✨ **Scroll Animations**
-* 📌 **Sticky Navbar**
+* **Modern UI (Zomato-style cards)**
+* **Dark / Light Mode Toggle**
+* **Fully Responsive (Mobile-Friendly)**
+* **Interactive Menu with Images**
+* **Location Integration (Google Maps)**
+* **WhatsApp “Order Now” Button**
+* **Scroll Animations**
+* **Sticky Navbar**
 
 ---
 
